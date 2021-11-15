@@ -5,8 +5,8 @@
 
 provider "aws" {
   region = "ap-south-1"
-  access_key = "AKIA2KLPU4IETP2GPKZX"
-  secret_key = "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"
+  access_key = ""
+  secret_key = ""
 }
 
 #vpc.tf
